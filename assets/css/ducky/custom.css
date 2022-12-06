@@ -1,0 +1,95 @@
+/* 
+** Ducky's Blog custom.css
+** author: Ducky
+** url: https://ducky.vip
+** tips: 此CSS是基于handsome主题优化样式，非专业勿动
+*/
+
+
+/*开启黑白模式*/
+/*html {-webkit-filter: grayscale(100%);}*/
+/*黑白模式结束*/
+
+/* logo扫光 */
+.navbar-brand{position:relative;overflow:hidden;margin: 0px 0 0 0px;}.navbar-brand:before{content:""; position: absolute; left: -665px; top: -460px; width: 200px; height: 15px; background-color: rgba(255,255,255,.5); -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); -webkit-animation: searchLights 6s ease-in 0s infinite; -o-animation: searchLights 6s ease-in 0s infinite; animation: searchLights 6s ease-in 0s infinite;}@-moz-keyframes searchLights{50%{left: -100px; top: 0;} 65%{left: 120px; top: 100px;}}@keyframes searchLights{40%{left: -100px; top: 0;} 60%{left: 120px; top: 100px;} 80%{left: -100px; top: 0px;}}
+
+/*首页文章列表悬停上浮*/
+.post-list .panel:not(article) {
+	transition: all 0.3s;
+}
+.post-list .panel:not(article):hover {
+	transform: translateY(-10px);
+	box-shadow: 0 8px 10px rgba(73, 90, 47, 0.47);
+}
+
+/*文章头图悬停放大并隐藏超出*/
+.entry-thumbnail {
+    overflow: hidden;
+}
+.entry-thumbnail .item-thumb {
+    transition: all 0.4s;
+}
+.entry-thumbnail .item-thumb:hover {
+    transform: scale(1.04);
+}
+
+/*评论边框*/
+.comment-parent {
+	margin: 1%;
+	padding: 2%;
+	border-radius: 25px;
+	border: 1px solid rgba(255,255,255,.3);
+}
+
+/*
+手机端不显示
+#easyLogin 右上角登录
+#statitic_info 顶部统计图
+#weather 心知天气
+#gossip 闲言碎语
+*/
+@media (max-width:767px) {
+    #easyLogin, #statitic_info, #weather, #gossip {
+        display: none;
+    }
+}
+
+/*文章正文下的结束End分割线样式*/
+.tt-fenge-end{border-top: 2px dotted #eee;height: 0px;margin: 35px 0px;text-align: center;width: 100%;line-height: 1.6em;}
+.tt-fenge-end span{background-color: #23b7e5;color: #fff;padding: 2px 8px;position: relative;top: -14px;border-radius: 12px;font-size: 12px;}
+/*深色模式下文章正文下的结束End分割线颜色*/
+html.theme-dark .tt-fenge-end{border-top: 2px dotted #4f4f4f;}
+
+/*底部页脚css*/
+.github-badge {
+  display: inline-block;
+  border-radius: 4px;
+  text-shadow: none;
+  font-size: 12px;
+  color: #fff;
+  line-height: 15px;
+  background-color: #abbac3;
+  margin-bottom: 5px
+}
+.github-badge .badge-subject {
+  display: inline-block;
+  background-color: #4d4d4d;
+  padding: 4px 4px 4px 6px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px
+}
+.github-badge .badge-value {
+  display: inline-block;
+  padding: 4px 6px 4px 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px
+}
+.github-badge .bg-blue {
+  background-color: #007ec6
+}
+.github-badge .bg-orange {
+  background-color: #ffa500
+}
+.github-badge .bg-green {
+  background-color: #3bca6e
+}
