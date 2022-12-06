@@ -1,0 +1,24 @@
+2022-12-03 12:45:40 开始发送请求：https://ducky.vip/action/comment-to-mail?send=Gw1upOr
+Curl 方式发送
+请求结束
+2022-12-03 12:47:40 开始发送请求：https://ducky.vip/action/comment-to-mail?send=fZjwIyh
+Curl 方式发送
+请求结束
+2022-12-03 12:50:29 开始发送请求：https://ducky.vip/action/comment-to-mail?send=tn6AHHW
+Curl 方式发送
+请求结束
+2022-12-03 12:52:01 开始发送请求：https://ducky.vip/action/comment-to-mail?send=wB7hUi8
+Curl 方式发送
+请求结束
+向 1***qq.com 发送邮件成功！
+向 8***qq.com 发送邮件成功！
+2022-12-03 13:03:57 开始发送请求：https://ducky.vip/action/comment-to-mail?send=UyBaX8i
+SOCKET错误,0:2022-12-03 13:05:13 开始发送请求：https://ducky.vip/action/comment-to-mail?send=3MBj1mI
+Curl 方式发送
+请求结束
+2022-12-03 13:38:54 开始发送请求：https://ducky.vip/action/comment-to-mail?send=Jg2xfBv
+Curl 方式发送
+请求结束
+2022-12-03 13:42:56 开始发送请求：https://ducky.vip/action/comment-to-mail?send=15zQXyu
+Curl 方式发送
+请求结束
