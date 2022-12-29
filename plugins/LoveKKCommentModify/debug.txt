@@ -1,0 +1,248 @@
+[SMTP] 2022-12-28 13:26:28: 
+data: a:12:{s:8:"fromName";s:12:"Ducky's Blog";s:4:"from";s:16:"notice@ducky.vip";s:2:"to";s:15:"87348888@qq.com";s:7:"replyTo";s:15:"87348888@qq.com";s:7:"subject";s:53:"您在 [Ducky's Blog]  发表的文章有新评论！";s:4:"html";s:2754:"<div style="width: 550px;height: auto;border-radius: 5px;margin:0 auto;border:1px solid #ffb0b0;box-shadow: 0px 0px 20px #888888;position: relative;">
+    <div style="background-image: url(https://www.liujiayang.cn/psyduck/home.jpg);width:550px;height: 250px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div>
+    <div style="background-color:white;line-height:180%;padding:0 15px 12px;width:520px;margin:10px auto;color:#555555;font-family:'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size:12px;margin-bottom: 0px;">
+        <h2 style="border-bottom:1px solid #DDD;font-size:14px;font-weight:normal;padding:13px 0 10px 8px;"><span style="color: #12ADDB;font-weight: bold;">&gt; </span>您的文章<a style="text-decoration:none;color: #12ADDB;" href="https://ducky.vip/archives/test.html/comment-page-1#comment-29" target="_blank">《测试文章一之这是一个文章标题》</a>有了新的回复耶~</h2>
+        <div style="padding:0 12px 0 12px;margin-top:18px">
+            <p>时间：<span style="border-bottom:1px dashed #ccc;" t="5" times=" 20:42">2022-12-28 13:26:27</span></p>
+            <p><strong>一个水军</strong>&nbsp;给您的评论：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试邮件</p>
+            <p>其他信息：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">IP：192.168.2.5<br />邮箱：<a href="mailto:1329422@qq.com">1329422@qq.com</a><br />状态：通过 [<a href='https://ducky.vip/settings//manage-comments.php' target='_blank'>管理评论</a>]</p>
+        </div>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">人だけが優秀でかわいいです。</p>
+    </div>
+    <a style="text-decoration: none;color: rgb(255, 255, 255);width: 40%;text-align: center;background-color: rgb(255, 114, 114);height: 40px;line-height: 40px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);display: block;margin: auto;" href="https://ducky.vip/archives/test.html/comment-page-1#comment-29" target="_blank">查看回复的完整內容</a>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;">
+        <p>Copyright Ducky's Blog</p>
+    </div>
+</div>";s:9:"smtp_host";s:20:"smtp.qiye.aliyun.com";s:9:"smtp_port";s:3:"465";s:9:"smtp_user";s:16:"notice@ducky.vip";s:9:"smtp_pass";s:12:"Aa516025455.";s:9:"smtp_auth";a:1:{i:0;s:6:"enable";}s:11:"smtp_secure";s:3:"ssl";}
+
+邮件发送返回数据：b:1;; 错误信息: 
+-------------------------------------------
+
+
+[SMTP] 2022-12-28 13:27:32: 
+data: a:12:{s:8:"fromName";s:12:"Ducky's Blog";s:4:"from";s:16:"notice@ducky.vip";s:2:"to";s:14:"1329422@qq.com";s:7:"replyTo";s:15:"87348888@qq.com";s:7:"subject";s:52:"您在 [Ducky's Blog] 的评论有了新的回复！";s:4:"html";s:3802:"<div style="width: 550px;height: auto;border-radius: 5px;margin:0 auto;border:1px solid #ffb0b0;box-shadow: 0px 0px 20px #888888;position: relative;padding-bottom: 5px;">
+    <div style="background-image: url(https://www.liujiayang.cn/psyduck/home.jpg);width:550px;height: 300px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div>
+    <div style="width: 200px;height: 40px;background-color: rgb(255, 114, 114);margin-top: -20px;margin-left: 20px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);color: rgb(255, 255, 255);text-align: center;line-height: 40px;">Dear: 一个水军</div>
+    <div style="background-color:white;line-height:180%;padding:0 15px 12px;width:520px;margin:30px auto;color:#555555;font-family:'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size:12px;margin-bottom: 0px;">
+        <h2 style="border-bottom:1px solid #DDD;font-size:14px;font-weight:normal;padding:13px 0 10px 8px;"><span style="color: #12ADDB;font-weight: bold;">&gt; </span>您在<a style="text-decoration:none;color: #12ADDB;" href="https://ducky.vip/archives/test.html" target="_blank">《测试文章一之这是一个文章标题》</a>的评论有了新的回复呐~</h2>
+        <div style="padding:0 12px 0 12px;margin-top:18px">
+            <p>时间：<span style="border-bottom:1px dashed #ccc;" t="5" times=" 20:42">2022-12-28 13:27:31</span></p>
+            <p>您的评论：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试邮件</p>
+            <p><strong>Ducky</strong>&nbsp;给您的回复：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试邮件</p>
+        </div>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">萤火虫消失之后，那光的轨迹仍久久地印在我的脑际。那微弱浅淡的光点，仿佛迷失方向的魂灵，在漆黑厚重的夜幕中彷徨。——《挪威的森林》村上春树</p>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">人だけが優秀でかわいいです。</p>
+    </div>
+    <a style="text-decoration:none; color:#FFF;width: 40%;text-align: center;background-color:#ff7272;height: 40px;line-height: 35px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.30);margin: -10px auto;display: block;" href="https://ducky.vip/archives/test.html/comment-page-1#comment-30" target="_blank">查看回复的完整內容，欢迎再次光临。</a>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;margin-top: 30px;">
+        <p>请注意：此邮件由 <a href="https://ducky.vip/" style="color:#12addb" target="_blank">Ducky's Blog</a> 自动发送，请勿直接回复。</p>
+        <p>若此邮件不是您请求的，请忽略并删除！</p>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;">
+        <p>Copyright Ducky's Blog</p>
+    </div>
+</div>";s:9:"smtp_host";s:20:"smtp.qiye.aliyun.com";s:9:"smtp_port";s:3:"465";s:9:"smtp_user";s:16:"notice@ducky.vip";s:9:"smtp_pass";s:12:"Aa516025455.";s:9:"smtp_auth";a:1:{i:0;s:6:"enable";}s:11:"smtp_secure";s:3:"ssl";}
+
+邮件发送返回数据：b:1;; 错误信息: 
+-------------------------------------------
+
+
+[SMTP] 2022-12-28 13:37:25: 
+data: a:12:{s:8:"fromName";s:12:"Ducky's Blog";s:4:"from";s:16:"notice@ducky.vip";s:2:"to";s:14:"1329422@qq.com";s:7:"replyTo";s:15:"87348888@qq.com";s:7:"subject";s:52:"您在 [Ducky's Blog] 的评论有了新的回复！";s:4:"html";s:3794:"<div style="width: 550px;height: auto;border-radius: 5px;margin:0 auto;border:1px solid #ffb0b0;box-shadow: 0px 0px 20px #888888;position: relative;padding-bottom: 5px;">
+    <div style="background-image: url(https://www.liujiayang.cn/psyduck/home.jpg);width:550px;height: 300px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div>
+    <div style="width: 200px;height: 40px;background-color: rgb(255, 114, 114);margin-top: -20px;margin-left: 20px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);color: rgb(255, 255, 255);text-align: center;line-height: 40px;">Dear: 一个水军</div>
+    <div style="background-color:white;line-height:180%;padding:0 15px 12px;width:520px;margin:30px auto;color:#555555;font-family:'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size:12px;margin-bottom: 0px;">
+        <h2 style="border-bottom:1px solid #DDD;font-size:14px;font-weight:normal;padding:13px 0 10px 8px;"><span style="color: #12ADDB;font-weight: bold;">&gt; </span>您在<a style="text-decoration:none;color: #12ADDB;" href="https://ducky.vip/archives/test.html" target="_blank">《测试文章一之这是一个文章标题》</a>的评论有了新的回复~</h2>
+        <div style="padding:0 12px 0 12px;margin-top:18px">
+            <p>时间：<span style="border-bottom:1px dashed #ccc;" t="5" times=" 20:42">2022-12-28 13:37:24</span></p>
+            <p>您的评论：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试邮件</p>
+            <p><strong>Ducky</strong>&nbsp;给您的回复：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试邮件2</p>
+        </div>
+    </div>
+<!--     <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">萤火虫消失之后，那光的轨迹仍久久地印在我的脑际。那微弱浅淡的光点，仿佛迷失方向的魂灵，在漆黑厚重的夜幕中彷徨。——《挪威的森林》村上春树</p>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">人だけが優秀でかわいいです。</p>
+    </div> -->
+    <a style="text-decoration:none; color:#FFF;width: 40%;text-align: center;background-color:#ff7272;height: 40px;line-height: 35px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.30);margin: -10px auto;display: block;" href="https://ducky.vip/archives/test.html/comment-page-1#comment-31" target="_blank">点击查看回复的完整內容。</a>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;margin-top: 30px;">
+        <p>请注意：此邮件由 <a href="https://ducky.vip/" style="color:#12addb" target="_blank">Ducky's Blog</a> 自动发送，请勿直接回复。</p>
+        <p>如果您意外收到此邮件，请忽略并删除！</p>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;">
+        <p>Copyright Ducky's Blog</p>
+    </div>
+</div>";s:9:"smtp_host";s:20:"smtp.qiye.aliyun.com";s:9:"smtp_port";s:3:"465";s:9:"smtp_user";s:16:"notice@ducky.vip";s:9:"smtp_pass";s:12:"Aa516025455.";s:9:"smtp_auth";a:1:{i:0;s:6:"enable";}s:11:"smtp_secure";s:3:"ssl";}
+
+邮件发送返回数据：b:1;; 错误信息: 
+-------------------------------------------
+
+
+[SMTP] 2022-12-28 13:39:26: 
+data: a:12:{s:8:"fromName";s:12:"Ducky's Blog";s:4:"from";s:16:"notice@ducky.vip";s:2:"to";s:14:"1329422@qq.com";s:7:"replyTo";s:15:"87348888@qq.com";s:7:"subject";s:52:"您在 [Ducky's Blog] 的评论有了新的回复！";s:4:"html";s:3791:"<div style="width: 550px;height: auto;border-radius: 5px;margin:0 auto;border:1px solid #ffb0b0;box-shadow: 0px 0px 20px #888888;position: relative;padding-bottom: 5px;">
+    <div style="background-image: url(https://www.liujiayang.cn/psyduck/home.jpg);width:550px;height: 300px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div>
+    <div style="width: 200px;height: 40px;background-color: rgb(255, 114, 114);margin-top: -20px;margin-left: 20px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);color: rgb(255, 255, 255);text-align: center;line-height: 40px;">Dear: 一个水军</div>
+    <div style="background-color:white;line-height:180%;padding:0 15px 12px;width:520px;margin:30px auto;color:#555555;font-family:'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size:12px;margin-bottom: 0px;">
+        <h2 style="border-bottom:1px solid #DDD;font-size:14px;font-weight:normal;padding:13px 0 10px 8px;"><span style="color: #12ADDB;font-weight: bold;">&gt; </span>您在<a style="text-decoration:none;color: #12ADDB;" href="https://ducky.vip/archives/test.html" target="_blank">《测试文章一之这是一个文章标题》</a>的评论有了新的回复~</h2>
+        <div style="padding:0 12px 0 12px;margin-top:18px">
+            <p>时间：<span style="border-bottom:1px dashed #ccc;" t="5" times=" 20:42">2022-12-28 13:39:25</span></p>
+            <p>您的评论：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试邮件</p>
+            <p><strong>Ducky</strong>&nbsp;给您的回复：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试邮件3</p>
+        </div>
+    </div>
+<!--     <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">萤火虫消失之后，那光的轨迹仍久久地印在我的脑际。那微弱浅淡的光点，仿佛迷失方向的魂灵，在漆黑厚重的夜幕中彷徨。——《挪威的森林》村上春树</p>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">人だけが優秀でかわいいです。</p>
+    </div> -->
+    <a style="text-decoration:none; color:#FFF;width: 40%;text-align: center;background-color:#ff7272;height: 40px;line-height: 35px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.30);margin: -10px auto;display: block;" href="https://ducky.vip/archives/test.html/comment-page-1#comment-32" target="_blank">点击此处查看完整內容。</a>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;margin-top: 30px;">
+        <p>请注意：此邮件由 <a href="https://ducky.vip/" style="color:#12addb" target="_blank">Ducky's Blog</a> 自动发送，请勿直接回复。</p>
+        <p>如果您意外收到此邮件，请忽略并删除！</p>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;">
+        <p>Copyright Ducky's Blog</p>
+    </div>
+</div>";s:9:"smtp_host";s:20:"smtp.qiye.aliyun.com";s:9:"smtp_port";s:3:"465";s:9:"smtp_user";s:16:"notice@ducky.vip";s:9:"smtp_pass";s:12:"Aa516025455.";s:9:"smtp_auth";a:1:{i:0;s:6:"enable";}s:11:"smtp_secure";s:3:"ssl";}
+
+邮件发送返回数据：b:1;; 错误信息: 
+-------------------------------------------
+
+
+[SMTP] 2022-12-28 13:42:47: 
+data: a:12:{s:8:"fromName";s:12:"Ducky's Blog";s:4:"from";s:16:"notice@ducky.vip";s:2:"to";s:15:"87348888@qq.com";s:7:"replyTo";s:15:"87348888@qq.com";s:7:"subject";s:52:"您在 [Ducky's Blog] 的评论有了新的回复！";s:4:"html";s:3995:"<div style="width: 550px;height: auto;border-radius: 5px;margin:0 auto;border:1px solid #ffb0b0;box-shadow: 0px 0px 20px #888888;position: relative;padding-bottom: 5px;">
+    <!-- <div style="background-image: url(https://www.liujiayang.cn/psyduck/home.jpg);width:550px;height: 300px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div> -->
+    <div style="background-image: url(https://ducky.vip/usr/uploads/image/msg.jpg);width:550px;height: 300px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div>
+    <div style="width: 200px;height: 40px;background-color: rgb(255, 114, 114);margin-top: -20px;margin-left: 20px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);color: rgb(255, 255, 255);text-align: center;line-height: 40px;">Dear: Ducky</div>
+    <div style="background-color:white;line-height:180%;padding:0 15px 12px;width:520px;margin:30px auto;color:#555555;font-family:'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size:12px;margin-bottom: 0px;">
+        <h2 style="border-bottom:1px solid #DDD;font-size:14px;font-weight:normal;padding:13px 0 10px 8px;"><span style="color: #12ADDB;font-weight: bold;">&gt; </span>您在<a style="text-decoration:none;color: #12ADDB;" href="https://ducky.vip/archives/test.html" target="_blank">《测试文章一之这是一个文章标题》</a>的评论有了新的回复~</h2>
+        <div style="padding:0 12px 0 12px;margin-top:18px">
+            <p>时间：<span style="border-bottom:1px dashed #ccc;" t="5" times=" 20:42">2022-12-28 13:42:46</span></p>
+            <p>您的评论：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试邮件3</p>
+            <p><strong>Ducky</strong>&nbsp;给您的回复：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试邮件4</p>
+        </div>
+    </div>
+<!--     <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">萤火虫消失之后，那光的轨迹仍久久地印在我的脑际。那微弱浅淡的光点，仿佛迷失方向的魂灵，在漆黑厚重的夜幕中彷徨。——《挪威的森林》村上春树</p>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">人だけが優秀でかわいいです。</p>
+    </div> -->
+    <a style="text-decoration:none; color:#FFF;width: 40%;text-align: center;background-color:#ff7272;height: 40px;line-height: 35px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.30);margin: -10px auto;display: block;" href="https://ducky.vip/archives/test.html/comment-page-1#comment-33" target="_blank">点击此处查看完整內容。</a>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;margin-top: 30px;">
+        <p>请注意：此邮件由 <a href="https://ducky.vip/" style="color:#12addb" target="_blank">Ducky's Blog</a> 自动发送，请勿直接回复。</p>
+        <p>如果您意外收到此邮件，请忽略并删除！</p>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;">
+        <p>Copyright Ducky's Blog</p>
+    </div>
+</div>";s:9:"smtp_host";s:20:"smtp.qiye.aliyun.com";s:9:"smtp_port";s:3:"465";s:9:"smtp_user";s:16:"notice@ducky.vip";s:9:"smtp_pass";s:12:"Aa516025455.";s:9:"smtp_auth";a:1:{i:0;s:6:"enable";}s:11:"smtp_secure";s:3:"ssl";}
+
+邮件发送返回数据：b:1;; 错误信息: 
+-------------------------------------------
+
+
+[SMTP] 2022-12-28 13:44:35: 
+data: a:12:{s:8:"fromName";s:12:"Ducky's Blog";s:4:"from";s:16:"notice@ducky.vip";s:2:"to";s:15:"87348888@qq.com";s:7:"replyTo";s:15:"87348888@qq.com";s:7:"subject";s:53:"您在 [Ducky's Blog]  发表的文章有新评论！";s:4:"html";s:2724:"<div style="width: 550px;height: auto;border-radius: 5px;margin:0 auto;border:1px solid #ffb0b0;box-shadow: 0px 0px 20px #888888;position: relative;">
+    <div style="background-image: url(https://www.liujiayang.cn/psyduck/home.jpg);width:550px;height: 250px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div>
+    <div style="background-color:white;line-height:180%;padding:0 15px 12px;width:520px;margin:10px auto;color:#555555;font-family:'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size:12px;margin-bottom: 0px;">
+        <h2 style="border-bottom:1px solid #DDD;font-size:14px;font-weight:normal;padding:13px 0 10px 8px;"><span style="color: #12ADDB;font-weight: bold;">&gt; </span>您的文章<a style="text-decoration:none;color: #12ADDB;" href="https://ducky.vip/archives/test.html#comment-34" target="_blank">《测试文章一之这是一个文章标题》</a>有了新的回复耶~</h2>
+        <div style="padding:0 12px 0 12px;margin-top:18px">
+            <p>时间：<span style="border-bottom:1px dashed #ccc;" t="5" times=" 20:42">2022-12-28 13:44:34</span></p>
+            <p><strong>一个水军</strong>&nbsp;给您的评论：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试评论</p>
+            <p>其他信息：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">IP：192.168.2.5<br />邮箱：<a href="mailto:1329422@qq.com">1329422@qq.com</a><br />状态：待审 [<a href='https://ducky.vip/settings//manage-comments.php' target='_blank'>管理评论</a>]</p>
+        </div>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">人だけが優秀でかわいいです。</p>
+    </div>
+    <a style="text-decoration: none;color: rgb(255, 255, 255);width: 40%;text-align: center;background-color: rgb(255, 114, 114);height: 40px;line-height: 40px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);display: block;margin: auto;" href="https://ducky.vip/archives/test.html#comment-34" target="_blank">查看回复的完整內容</a>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;">
+        <p>Copyright Ducky's Blog</p>
+    </div>
+</div>";s:9:"smtp_host";s:20:"smtp.qiye.aliyun.com";s:9:"smtp_port";s:3:"465";s:9:"smtp_user";s:16:"notice@ducky.vip";s:9:"smtp_pass";s:12:"Aa516025455.";s:9:"smtp_auth";a:1:{i:0;s:6:"enable";}s:11:"smtp_secure";s:3:"ssl";}
+
+邮件发送返回数据：b:1;; 错误信息: 
+-------------------------------------------
+
+
+[SMTP] 2022-12-28 13:45:15: 
+data: a:12:{s:8:"fromName";s:12:"Ducky's Blog";s:4:"from";s:16:"notice@ducky.vip";s:2:"to";s:14:"1329422@qq.com";s:7:"replyTo";s:15:"87348888@qq.com";s:7:"subject";s:56:"您在 [Ducky's Blog]  发表的评论已通过审核！";s:4:"html";s:2394:"<table style="width:99.8%;height:99.8%">
+    <tbody>
+    <tr>
+        <td style="background:#fafafa url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAy0lEQVQY0x2PsQtAYBDFP1keKZfBKIqNycCERUkMKLuSgZnRarIpJX8s3zfcDe9+794du+8bRVHQOI4wDAOmaULTNDDGYFkWMVVVQUTQdZ3iOMZxHCjLElVV0TRNYHVdC7ptW6RpSn3f4wdJkiTs+w6WJAl4DcOAbdugKAq974umaRAEARgXn+cRW3zfFxuiKCJZloXGHMeBbdv4Beq6Duu6Issy7iYB8Jbnucg8zxPLsggnj/zvIxaGIXmeB9d1wSE+nOeZf4HruvABUtou5ypjMF4AAAAASUVORK5CYII=)">
+            <div style="border-radius:10px;font-size:13px;color:#555;width:666px;font-family:'Century Gothic','Trebuchet MS','Hiragino Sans GB','微软雅黑','Microsoft Yahei',Tahoma,Helvetica,Arial,SimSun,sans-serif;margin:50px auto;border:1px solid #eee;max-width:100%;background:#fff repeating-linear-gradient(-45deg,#fff,#fff 1.125rem,transparent 1.125rem,transparent 2.25rem);box-shadow:0 1px 5px rgba(0,0,0,.15)">
+                <div style="width:100%;background:#49BDAD;color:#fff;border-radius:10px 10px 0 0;background-image:-moz-linear-gradient(0deg,#43c6b8,#ffd1f4);background-image:-webkit-linear-gradient(0deg,#43c6b8,#ffd1f4);height:66px"><p style="font-size:15px;word-break:break-all;padding:23px 32px;margin:0;background-color:hsla(0,0%,100%,.4);border-radius:10px 10px 0 0">您在 [<a href="https://ducky.vip/" style="text-decoration:none;color:#fff" target="_blank">Ducky's Blog</a>] 的评论已通过审核！</p></div>
+                <div style="margin:40px auto;width:90%">
+                    <p>一个水军，您曾在文章《<a href="https://ducky.vip/archives/test.html#comment-34" style="text-decoration:none;color:#12addb" target="_blank">测试文章一之这是一个文章标题</a>》上发表评论:</p>
+                    <p style="background:#fafafa repeating-linear-gradient(-45deg,#fff,#fff 1.125rem,transparent 1.125rem,transparent 2.25rem);box-shadow:0 2px 5px rgba(0,0,0,.15);margin:20px 0;padding:15px;border-radius:5px;font-size:14px;color:#555">测试评论</p>
+                    <p>目前您的评论已通过审核！</p>
+                    <p>请注意：此邮件由 <a href="https://ducky.vip/" style="color:#12addb" target="_blank">Ducky's Blog</a> 自动发送，请勿直接回复。</p>
+                    <p>若此邮件不是您请求的，请忽略并删除！</p>
+                </div>
+            </div>
+        </td>
+    </tr>
+    </tbody>
+</table>";s:9:"smtp_host";s:20:"smtp.qiye.aliyun.com";s:9:"smtp_port";s:3:"465";s:9:"smtp_user";s:16:"notice@ducky.vip";s:9:"smtp_pass";s:12:"Aa516025455.";s:9:"smtp_auth";a:1:{i:0;s:6:"enable";}s:11:"smtp_secure";s:3:"ssl";}
+
+邮件发送返回数据：b:1;; 错误信息: 
+-------------------------------------------
+
+
+[SMTP] 2022-12-28 14:11:15: 
+data: a:12:{s:8:"fromName";s:12:"Ducky's Blog";s:4:"from";s:16:"notice@ducky.vip";s:2:"to";s:14:"1329422@qq.com";s:7:"replyTo";s:15:"87348888@qq.com";s:7:"subject";s:52:"您在 [Ducky's Blog] 的评论有了新的回复！";s:4:"html";s:4000:"<div style="width: 550px;height: auto;border-radius: 5px;margin:0 auto;border:1px solid #ffb0b0;box-shadow: 0px 0px 20px #888888;position: relative;padding-bottom: 5px;">
+    <!-- <div style="background-image: url(https://www.liujiayang.cn/psyduck/home.jpg);width:550px;height: 300px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div> -->
+    <div style="background-image: url(https://ducky.vip/usr/uploads/image/msg.jpg);width:550px;height: 300px;background-size: cover;background-repeat: no-repeat;border-radius: 5px 5px 0px 0px;"></div>
+    <div style="width: 200px;height: 40px;background-color: rgb(255, 114, 114);margin-top: -20px;margin-left: 20px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);color: rgb(255, 255, 255);text-align: center;line-height: 40px;">Dear: 一个水军</div>
+    <div style="background-color:white;line-height:180%;padding:0 15px 12px;width:520px;margin:30px auto;color:#555555;font-family:'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size:12px;margin-bottom: 0px;">
+        <h2 style="border-bottom:1px solid #DDD;font-size:14px;font-weight:normal;padding:13px 0 10px 8px;"><span style="color: #12ADDB;font-weight: bold;">&gt; </span>您在<a style="text-decoration:none;color: #12ADDB;" href="https://ducky.vip/archives/test.html" target="_blank">《测试文章一之这是一个文章标题》</a>的评论有了新的回复~</h2>
+        <div style="padding:0 12px 0 12px;margin-top:18px">
+            <p>时间：<span style="border-bottom:1px dashed #ccc;" t="5" times=" 20:42">2022-12-28 14:11:14</span></p>
+            <p>您的评论：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试评论</p>
+            <p><strong>Ducky</strong>&nbsp;给您的回复：</p>
+            <p style="background-color: #f5f5f5;border: 0px solid #DDD;padding: 10px 15px;margin:18px 0">测试邮件</p>
+        </div>
+    </div>
+<!--     <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">萤火虫消失之后，那光的轨迹仍久久地印在我的脑际。那微弱浅淡的光点，仿佛迷失方向的魂灵，在漆黑厚重的夜幕中彷徨。——《挪威的森林》村上春树</p>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;word-wrap:break-word;margin-top: -30px;">
+        <p style="padding:20px;">人だけが優秀でかわいいです。</p>
+    </div> -->
+    <a style="text-decoration:none; color:#FFF;width: 40%;text-align: center;background-color:#ff7272;height: 40px;line-height: 35px;box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.30);margin: -10px auto;display: block;" href="https://ducky.vip/archives/test.html/comment-page-1#comment-35" target="_blank">点击此处查看完整內容。</a>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;margin-top: 30px;">
+        <p>请注意：此邮件由 <a href="https://ducky.vip/" style="color:#12addb" target="_blank">Ducky's Blog</a> 自动发送，请勿直接回复。</p>
+        <p>如果您意外收到此邮件，请忽略并删除！</p>
+    </div>
+    <div style="color:#8c8c8c;;font-family: 'Century Gothic','Trebuchet MS','Hiragino Sans GB',微软雅黑,'Microsoft Yahei',Tahoma,Helvetica,Arial,'SimSun',sans-serif;font-size: 10px;width: 100%;text-align: center;">
+        <p>Copyright Ducky's Blog</p>
+    </div>
+</div>";s:9:"smtp_host";s:20:"smtp.qiye.aliyun.com";s:9:"smtp_port";s:3:"465";s:9:"smtp_user";s:16:"notice@ducky.vip";s:9:"smtp_pass";s:12:"Aa516025455.";s:9:"smtp_auth";a:1:{i:0;s:6:"enable";}s:11:"smtp_secure";s:3:"ssl";}
+
+邮件发送返回数据：b:1;; 错误信息: 
+-------------------------------------------
+
+
